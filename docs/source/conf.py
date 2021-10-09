@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'raspi-myconfig'
+copyright = '2021, steneor'
+author = 'steneor'
 
 release = '0.1'
 version = '0.1.0'
