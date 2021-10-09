@@ -1,8 +1,7 @@
 Welcome to raspi-myconfig documentation!
 ===================================
 
-**raspi-myconfig** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**raspi-myconfig** est un script bash pour configurer mes raspberry PI.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
