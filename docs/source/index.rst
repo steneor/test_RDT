@@ -2,8 +2,8 @@ Welcome to raspi-myconfig documentation!
 ===================================
 
 **raspi-myconfig** est un script bash pour configurer mes raspberry PI.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+<https://world.openfoodfacts.org/>`_
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
