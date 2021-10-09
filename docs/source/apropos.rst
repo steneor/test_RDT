@@ -1,1 +1,7 @@
-A propos de azerty
+apropos
+=======
+
+.. autosummary::
+   :toctree: generated
+
+   lumache
